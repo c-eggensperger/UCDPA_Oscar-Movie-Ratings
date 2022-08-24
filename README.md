@@ -6,14 +6,13 @@ Abstract: This project focuses on movies that have been nominated for Academy Aw
 
 Visualizations
 
-Distribution of of the IMDB ratings for oscar nominated movies
 ![IMDB ratings graph](https://user-images.githubusercontent.com/109299370/186477922-5e1ccd94-fe95-403d-ae19-597b283a4515.JPG)
 
-Distribution of of the Meta scores for oscar nominated movies
+
 ![Meta Score ratings graph](https://user-images.githubusercontent.com/109299370/186478688-1ca42546-d7ce-4401-9652-81dbe028458c.JPG)
 
-IMDB ratings for the most awarded Oscar movies
+
 ![IMDB ratings top winners](https://user-images.githubusercontent.com/109299370/186478404-49a21cac-8cdd-492a-846c-e2267904182a.JPG)
 
-Meta scores for the most awarded Oscar movies
+
 ![Meta Score rating top winners](https://user-images.githubusercontent.com/109299370/186478552-f2876a73-952f-4e01-a5d4-e37da294d75b.JPG)
